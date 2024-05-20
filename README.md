@@ -28,9 +28,17 @@ I strive to enhance my bioinformatics skills to perform different tasks, from do
        <td> <li> <a href = "https://www.coursera.org/learn/r-programming"> URL </a></li> </td>
     </tr>
     <tr>
-      <td> Bioconductor for Genomic Data Science <i> <i><b> I highly recommend this course</b></i> </td>
+      <td> Bioconductor for Genomic Data Science <i><b> I highly recommend this course</b></i> </td>
        <td> <li> <a href = "https://www.coursera.org/learn/bioconductor"> URL </a></li> </td>
     </tr>
+<tr>
+      <td> Bioinformagician <br>  <i><b> youtube chanels with important playlists on basics and on scRNA-seq analysis</b></i> </td>
+       <td> <li> <a href = "https://www.youtube.com/@Bioinformagician/"> URL </a></li> </td>
+    </tr>
+    <tr>
+  <td> Single cell RNA-Seq analysis <li> Single-Cell RNA Sequencing </li> <li> Single-cell RNA-seq data analysis workshop </li> </td>
+  <td> <li> <a href = "https://www.youtube.com/watch?v=PrtSx87qo1A" > URL </a></li> <li> <a href = "https://hbctraining.github.io/scRNA-seq_online/" > URL </a></li></td>
+</tr>
 <tr>
   <td> Web development for those who are interested to learn front-end and back-end web development for making bioinformatics databases and web interactive tools <li> Programming Foundations with JavaScript, HTML and CSS </li> <li> Getting Started with Front-End and Web Development </li> </td>
   <td> <li> <a href = "https://www.coursera.org/learn/duke-programming-web/home/week/1" > URL </a></li> <li> <a href = "https://www.coursera.org/learn/getting-started-with-front-end-and-web-development" > URL </a></li></td>
